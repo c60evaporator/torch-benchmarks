@@ -1,0 +1,4 @@
+model,dataset,epochs,num_gpus,num_workers,batch_size,fp,transform_script,pretrained_weights
+fasterrcnn,COCO,150,1,4,8,16,,
+detr,COCO,150,1,4,2,16,,
+yolox,COCO,150,1,4,8,16,,

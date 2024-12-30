@@ -1,0 +1,6 @@
+Installation
+
+- All the datasets are downloaded
+- All the model directories exist
+- `pip list` includes yolox package
+- All the pretrained weights can be downloaded

@@ -1,0 +1,3 @@
+model,dataset,epochs,num_gpus,num_workers,batch_size,fp,transform_script,pretrained_weights
+detr,COCO,1,1,4,2,16,,
+detr,COCO,1,1,4,2,16,,pretrained_weights/detr/detr-r50-e632da11.pth

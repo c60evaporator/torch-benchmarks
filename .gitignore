@@ -1,0 +1,6 @@
+object_detection/datasets
+object_detection/models/benchmark_env
+object_detection/models/detr
+object_detection/models/YOLOX
+object_detection/pretrained_weights
+object_detection/results

@@ -1,0 +1,6 @@
+wheel
+Cython
+scipy
+pycocotools
+lightning
+albumentations
